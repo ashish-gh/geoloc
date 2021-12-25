@@ -1,7 +1,7 @@
 import json
 import os
-from abc import ABCMeta, abstractmethod
-from typing import Dict, List
+from abc import abstractmethod
+from typing import Dict
 
 from loguru import logger
 

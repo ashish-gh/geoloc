@@ -1,5 +1,4 @@
 import math
-from dataclasses import dataclass
 from typing import Dict
 
 from .coordiante import Coordinate
